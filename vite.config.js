@@ -16,7 +16,8 @@ export default defineConfig({
                 'resources/js/vendors.js',
                 'resources/js/2026.js',
                 'resources/js/jquery4.js',
-                'resources/js/sweetalert2.all.min.js'
+                'resources/js/sweetalert2.all.min.js',
+                'resources/js/productos.js'
             ],
             refresh: true,
         }),
